@@ -1,0 +1,7 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    text-shadow:0.5px 0.5px black;
+    color: white
+}
