@@ -1,4 +1,3 @@
-/*
 
 function bt() {
     var n1 = Number(window.prompt("Digite um número:"))
@@ -10,7 +9,5 @@ function bt() {
     // n3.toFixed(Casas depois da vírgula)
     // n3.toFixed(Casas depois da vírgula).replace(',' , '.')
     // n3.toLocaleString('pt-br', {style: 'currency', currency: 'BRL'})
-} */
-//Operadors JS
 
-
+}
