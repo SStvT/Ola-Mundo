@@ -1,7 +1,115 @@
-body {
-    background-color: aqua;
+div#hrs {
+    font: normal 20pt Arial;
 }
-h1 {
-    text-shadow:0.5px 0.5px black;
-    color: white
+div#quadGeral {
+    height: 400px;
+    width: 300px;
+    background-color: gray;
+    position: absolute;
+    z-index: 99;
+}
+div#nUm {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    z-index: 100;
+    margin-top: 340px;
+    margin-left: 05px;
+}
+div#nDois {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    z-index: 101;
+    margin-top: 340px;
+    margin-left: 80px;
+}
+
+div#nTres {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    z-index: 101;
+    margin-top: 340px;
+    margin-left: 155px;
+}
+
+div#nQuatro {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    z-index: 100;
+    margin-top: 280px;
+    margin-left: 05px;
+}
+div#nCinco {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    z-index: 101;
+    margin-top: 280px;
+    margin-left: 80px;
+}
+
+div#nSeis {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    z-index: 101;
+    margin-top: 280px;
+    margin-left: 155px;
+}
+
+div#nSete {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    z-index: 100;
+    margin-top: 220px;
+    margin-left: 05px;
+}
+
+div#nOito {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    z-index: 101;
+    margin-top: 220px;
+    margin-left: 80px;
+}
+
+div#nNove {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    width: 60px;
+    position: absolute;
+    z-index: 101;
+    margin-top: 220px;
+    margin-left: 155px;
 }
