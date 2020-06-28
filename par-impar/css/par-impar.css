@@ -1,0 +1,72 @@
+div#escolhaLado {
+    text-align: center;
+    font: normal 20pt Arial;
+    z-index: 2;
+    position: absolute;
+}
+
+div#pPar {
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    z-index: 2;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 150px;
+    width: 100px;
+}
+
+div#pImpar {
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    margin-left: 100px;
+    z-index: 2;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 100px;
+}
+
+div#fundoMenu {
+    background-color: aqua;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    z-index: 1;
+}
+
+input#jogadaPlayer {
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    margin-left: 100px;
+    z-index: 2;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 150px;
+    width: 100px;
+}
+
+div#DIVjogadaPlayer {
+    color: blanchedalmond;
+    background-color: black;
+    margin-left: 100px;
+    z-index: 2;
+    width: 115px;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 30px;
+}
+
+div#resultadoJogo {
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    margin-left: 100px;
+    z-index: 2;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 150px;
+    width: 100px;
+}
